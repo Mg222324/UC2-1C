@@ -8,3 +8,9 @@
 - Fork esse repositório e não altere no nome do repositório
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
+
+# Pedro Ferraz
+
+Atividade 1: trello em grupo - link - https://trello.com/invite/b/gUtHY6Ln/ATTIa5a34f594eafb2a815c464eaef3d545c54CE0FCC/trabalho-maneiro
+
+Atividade 2: linguagem de progamação - link - 
