@@ -14,3 +14,5 @@
 Atividade 1: trello em grupo - link - https://trello.com/invite/b/gUtHY6Ln/ATTIa5a34f594eafb2a815c464eaef3d545c54CE0FCC/trabalho-maneiro
 
 Atividade 2: linguagem de progamação - link - 
+
+Atividade 3: Emprego dos sonhos - link - https://docs.google.com/document/d/1vtTs6GwIoxv2k0sTeyYai_jvJBELf1Fn9FIM7B_t2C0/edit?usp=sharing
